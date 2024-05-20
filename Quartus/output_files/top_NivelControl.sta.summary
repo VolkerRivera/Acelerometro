@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'nRst'
+Slack : -2.431
+TNS   : -2.431
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -0.503
+TNS   : -0.503
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.235
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'nRst'
+Slack : 1.994
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -1.327
+TNS   : -205.217
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 0.929
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'nRst'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.535
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'nRst'
+Slack : -2.030
+TNS   : -2.030
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -0.457
+TNS   : -0.457
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.228
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'nRst'
+Slack : 1.724
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -1.183
+TNS   : -181.452
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 0.971
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'nRst'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.558
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'nRst'
+Slack : -0.758
+TNS   : -0.758
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : 0.249
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.108
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'nRst'
+Slack : 1.030
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -0.525
+TNS   : -74.829
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'nRst'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.410
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Wed May 18 16:30:39 2022
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : top_NivelControl
+Top-level Entity Name : top_NivelControl
+Family : MAX 10
+Total logic elements : 478
+    Total combinational functions : 452
+    Dedicated logic registers : 184
+Total registers : 184
+Total pins : 29
+Total virtual pins : 0
+Total memory bits : 660
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
